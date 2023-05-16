@@ -19,7 +19,7 @@
 - https://discord.com/api/webhooks/845345830998769724/_1fdg_5g9E2rTZrvYCmRQgsxQrAnM7P0Wg2HukY7Y3OIKiw7A7-NH-Dz1d2euzilE6yI (dead)
 ### KSCH/OGAGAL
 ### WFA (Selfbot) 
-#### V4 
+#### V4 (+ WFA Core[^1])
 - https://discord.com/api/webhooks/1016297528683151400/8wajyDEWdxHQc8dqLizP_OmcqHL0Byf8br2595POVVgBA7hsgqFQEMLJdyEyGK7TBJGx (dead)
 - https://discord.com/api/webhooks/1016297535838617650/3sKdxKal4PlJAH6IdSpVJwAu2BAbnLKZaaA3fg5U3Q4J-Ye4YOLteFR_qn9SZlnyxsma (dead)
 - https://discord.com/api/webhooks/1016290062192881694/bQEi7uZhWxuFRrMvCLozyTzZgJOldB7SQXixT70VlZvaupcNkXJCzm286j5CwWsqnt_x (dead)
@@ -51,3 +51,5 @@
 - https://discord.com/api/webhooks/1043958172735520948/LAAIVlzHNKb56bLIWvv91uKkCcAIKZGTssRrfKsF_Yq1ydr3UWTgXTh27BsQ4Crkq9rU (dead)
 - https://discord.com/api/webhooks/1044012968406417499/qCzQbB29AOQKDUfW59Bs6udj3sIlale_csyThGk5iXvMKuAb3G8s_4RVvOZqKjztjxoA (dead)
 - https://discord.com/api/webhooks/1044175488471535626/2LK9m_x5GdUYD-zk5GGBc84WTAA0gZ3dw3TsuVmtplYmo_ipSNWZCw8klRb4FtEy4rCX (dead)
+
+[^1]: A token grabber that was added during the selfbot's startup because of "discord wfa core for mods" reasons.
